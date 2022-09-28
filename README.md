@@ -10,24 +10,24 @@ Below we listed their performance and analysis:
 
 **Logistic Regression Based Models:**
 <br>
-Using four different ways to sample our data in the Logistic Regression model, we find that the Combination (Overand Under) Sampling method gave us the best results.  In the confusion matrix we can see this model was able to identify 81 of the 101 bad loans while 
+Using four different ways to sample our data in the Logistic Regression model, we find that the Combination (Overand Under) Sampling method gave us the best sensitivity .  In the confusion matrix we can see this model was able to identify 81 of the 101 bad loans while 
 
-<img src = 'images/NavieRandomOversampling.JPG' >
+<img src = 'images/NavieRandomOversampling.JPG' width = '300px'>
 
 
-<img src = 'images/SMOTE.JPG' >
+<img src = 'images/SMOTE.JPG' width = '300px'>
 
-<img src = 'images/ClusterCentroidsUndersampling.JPG' >
+<img src = 'images/ClusterCentroidsUndersampling.JPG' width = '300px'>
 
-<img src = 'images/Combination.JPG' >
+<img src = 'images/Combination.JPG' width = '300px'>
 
 
 **Random Forest Based Models:**
 <br>
 
-<img src = 'images/BalancedRandomForest.JPG' >
+<img src = 'images/BalancedRandomForest.JPG' width = '300px'>
 
-<img src = 'images/EasyEnsembleAdaBoost.JPG' >
+<img src = 'images/EasyEnsembleAdaBoost.JPG' width = '300px'>
 
 ## Summary:
 
